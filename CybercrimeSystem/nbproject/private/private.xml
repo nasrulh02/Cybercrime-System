@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/naqui/Documents/NetBeansProjects/CybercrimeSystem/src/java/servlet/EditIncidentServlet.java</file>
+            <file>file:/C:/Users/naqui/Documents/NetBeansProjects/CybercrimeSystem/web/Admin.jsp</file>
+            <file>file:/C:/Users/naqui/Documents/NetBeansProjects/CybercrimeSystem/web/editIncident.jsp</file>
+            <file>file:/C:/Users/naqui/Documents/NetBeansProjects/CybercrimeSystem/web/login.jsp</file>
+            <file>file:/C:/Users/naqui/Documents/NetBeansProjects/CybercrimeSystem/web/index.html</file>
+            <file>file:/C:/Users/naqui/Documents/NetBeansProjects/CybercrimeSystem/web/logout.jsp</file>
+            <file>file:/C:/Users/naqui/Documents/NetBeansProjects/CybercrimeSystem/src/java/model/Incident.java</file>
+            <file>file:/C:/Users/naqui/Documents/NetBeansProjects/CybercrimeSystem/web/register.jsp</file>
+            <file>file:/C:/Users/naqui/Documents/NetBeansProjects/CybercrimeSystem/src/java/servlet/RegisterServlet.java</file>
+            <file>file:/C:/Users/naqui/Documents/NetBeansProjects/CybercrimeSystem/web/dashboard.jsp</file>
+            <file>file:/C:/Users/naqui/Documents/NetBeansProjects/CybercrimeSystem/src/java/servlet/AdminServlet.java</file>
+            <file>file:/C:/Users/naqui/Documents/NetBeansProjects/CybercrimeSystem/web/reportIncident.jsp</file>
+        </group>
+    </open-files>
+</project-private>
